@@ -1,2 +1,1 @@
-# DataM
-Data Management Term Projects compliled
+Data Management Project 
